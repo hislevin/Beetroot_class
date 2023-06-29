@@ -173,5 +173,6 @@ cython_debug/
 *.vsix
 
 static/*
-media/*
+media/* 
 dump
+**/.DS_Store
