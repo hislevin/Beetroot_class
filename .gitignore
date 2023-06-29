@@ -175,4 +175,4 @@ cython_debug/
 static/*
 media/* 
 dump
-**/.DS_Store
+.DS_Store
